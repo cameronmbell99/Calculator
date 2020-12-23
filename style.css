@@ -93,29 +93,17 @@ button.digits:hover,
 button.decimal:hover {
 	background: white;
 	color: #212121;
-	/* transform: translateY(-0.2rem); */
 }
 
 button.operators:hover {
 	background: white;
 	color: #000;
-	/* transform: translateY(-0.2rem); */
 }
 
 button.allclear:hover,
 button.clear:hover {
 	background: white;
 	color: #000;
-	/* transform: translateY(-0.2rem); */
-}
-
-button.digits:active,
-button.operators:active,
-button.decimal:active,
-button.allclear:active,
-button.clear:active,
-button.equals:active {
-	/* transform: translateY(0rem); */
 }
 
 footer {
