@@ -2,7 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	font-family: 'Quicksand', 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 .container-parent {
@@ -55,7 +55,7 @@ output#result {
 	font-size: 1.625rem;
 	font-weight: 600;
 	text-align: right;
-	color: var(--white);
+	color: white;
 }
 
 .calculator .all-buttons {
